@@ -88,21 +88,11 @@ I'm a developer and engineering student interested in building systems at the in
 
 ---
 
-## 📈 Contribution Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikdotdev&hide_border=true&area=true" />
-</p>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratikdotdev/pratikdotdev/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratikdotdev/pratikdotdev/output/github-contribution-grid-snake.svg"> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/pratikdotdev/pratikdotdev/output/github-contribution-grid-snake.svg"> </picture>
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratikdotdev&theme=flat&no-frame=true&margin-w=10&row=1" />
-</p>
-
----
+</div>
 
 ## 🚀 Featured Projects
 
