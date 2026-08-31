@@ -71,12 +71,15 @@ I'm a developer and engineering student interested in building systems at the in
 
 ---
 
-# 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikdotdev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdotdev&layout=compact&hide_border=true&langs_count=8" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratikdotdev/pratikdotdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratikdotdev/pratikdotdev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pratikdotdev/pratikdotdev/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
@@ -87,15 +90,7 @@ I'm a developer and engineering student interested in building systems at the in
 </p>
 
 ---
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratikdotdev/pratikdotdev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratikdotdev/pratikdotdev/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pratikdotdev/pratikdotdev/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 
 ## 🚀 Featured Projects
