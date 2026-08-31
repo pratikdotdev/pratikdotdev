@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Mozumder</h1>
 <h3 align="center">Blending hardware engineering with software</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikdotdev&label=Profile%20views&color=0e75b6&style=flat" alt="pratikdotdev" /> </p>
+
 
 
 
