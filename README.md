@@ -1,32 +1,178 @@
-<h1 align="center">Hi 👋, I'm Pratik Mozumder</h1>
-<h3 align="center">Blending hardware engineering with software</h3>
+# 👋 Hi, I'm Pratik Mozumder
 
+### 🚀 AI • Backend • Electronics • Creative Technology
 
-
-
-
-- 🔭 I’m currently working on [AI_DRONE_SIMULATOR](https://github.com/pratikdotdev/AI_DRONE_SIMULATOR)
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 👯 I’m looking to collaborate on [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
-
-- 🤝 I’m looking for help with [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
-
-- 👨‍💻 All of my projects are available at [https://github.com/pratikdotdev](https://github.com/pratikdotdev)
-
-- 💬 Ask me about **Fast API, Langchain**
-
-- 📫 How to reach me **pratikmozumder1@gmail.com**
-
-- ⚡ Fun fact **Graphics Designer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pratik mozumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik mozumder" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratikdotdev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/pratikdotdev">
+    <img src="https://img.shields.io/github/followers/pratikdotdev?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/pratikdotdev">
+    <img src="https://img.shields.io/github/stars/pratikdotdev?label=Stars&style=for-the-badge" />
+  </a>
+</p>
 
+---
 
+## 🧑‍💻 About Me
+
+I'm a developer and engineering student interested in building systems at the intersection of **Artificial Intelligence, Backend Development, Electronics, and Hardware**.
+
+* 🔭 Currently working on **[AI_DRONE_SIMULATOR](https://github.com/pratikdotdev/AI_DRONE_SIMULATOR)**
+* 🌱 Currently learning **Backend Development**
+* 🤖 Exploring **AI, LangChain & FastAPI**
+* 👯 Looking to collaborate on **[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)**
+* 💬 Ask me about **FastAPI, LangChain & Python**
+* 🎨 Also interested in **Graphic Design & Visual Creativity**
+* ⚡ I enjoy combining **hardware engineering with software**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,typescript,nodejs,fastapi" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,gcp,linux,git,github" />
+</p>
+
+### 🗄️ Databases & Data
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Hardware & Engineering
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=arduino,matlab" />
+</p>
+
+### 🎨 Design & 3D
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=blender,ps,ai" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikdotdev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdotdev&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pratikdotdev&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikdotdev&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratikdotdev&theme=flat&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Drone Simulator
+
+Simulation project focused on exploring **AI + autonomous drone systems**.
+
+🔗 **Repository:**
+https://github.com/pratikdotdev/AI_DRONE_SIMULATOR
+
+---
+
+### 🧠 OpenMAIC
+
+Interested in contributing to an open-source AI project focused on intelligent systems.
+
+🔗 **Repository:**
+https://github.com/THU-MAIC/OpenMAIC
+
+---
+
+## 🧩 What I'm Currently Exploring
+
+```text
+Artificial Intelligence     ███████████████████░░   90%
+Backend Development         █████████████████░░░░   80%
+Python                      ███████████████████░░   90%
+FastAPI                     ████████████████░░░░░   75%
+LangChain                   ███████████████░░░░░░   70%
+Cloud Technologies          █████████████░░░░░░░░   65%
+Electronics / Hardware      ████████████████░░░░░   80%
+Creative Design             ███████████████░░░░░░   70%
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/pratik-mozumder-85a70b267">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+&nbsp;
+<a href="https://github.com/pratikdotdev">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+</p>
+
+📧 **Email:** [pratikmozumder1@gmail.com](mailto:pratikmozumder1@gmail.com)
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/pratik-mozumder-85a70b267
+
+🐙 **GitHub:**
+https://github.com/pratikdotdev
+
+---
+
+## 💡 Developer Philosophy
+
+> **Build. Break. Learn. Improve. Repeat.**
+
+I believe the best way to learn technology is by **building real systems**, experimenting with ideas, and continuously improving them.
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
