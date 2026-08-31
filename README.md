@@ -87,7 +87,15 @@ I'm a developer and engineering student interested in building systems at the in
 </p>
 
 ---
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratikdotdev/pratikdotdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratikdotdev/pratikdotdev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pratikdotdev/pratikdotdev/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 
 ## 🚀 Featured Projects
